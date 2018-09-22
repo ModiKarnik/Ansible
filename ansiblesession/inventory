@@ -1,0 +1,5 @@
+
+web1 ansible_ssh_host=192.168.33.20 ansible_ssh_user=ansibleuser ansible_ssh_pass=12345678
+
+db1 ansible_ssh_host=192.168.33.30 ansible_ssh_user=ansibleuser ansible_ssh_pass=12345678
+
